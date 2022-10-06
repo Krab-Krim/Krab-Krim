@@ -3,6 +3,8 @@
 <h3 align="center"><q>Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.</q></h3>
 <p align="center"> - Mosher’s Law of Software Engineering</p>
 
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 <!--
 **Krab-Krim/Krab-Krim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
