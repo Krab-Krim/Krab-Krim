@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vera 👋</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<blockquote>Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.</blockquote>
-<<h3 align="center">><q>Mosher’s Law of Software Engineering</q></h3>
+<p align="center">Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.</p>
+<h3 align="center"><q>Mosher’s Law of Software Engineering</q></h3>
 
 <!--
 **Krab-Krim/Krab-Krim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
