@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vera 👋</a> 
+<h1 align="center">Hi there, I'm Vera 👋</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><q>Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.</q></h3>
 <p align="center"> - Mosher’s Law of Software Engineering</p>
