@@ -3,8 +3,6 @@
 <h2 align="center"><q>Не волнуйтесь, если что-то не работает. Если бы всё работало, вас бы уволили.</q></h3>
 <p align="center"> - Mosher’s Law of Software Engineering</p>
 
-<h4>Немного о себе</h4>
-
 <!--
 **Krab-Krim/Krab-Krim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
